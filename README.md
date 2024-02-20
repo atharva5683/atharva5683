@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!&center=true&width=360&height=50">
 </div>	
 <h3 align="center">A passionate Coder from India</h3>
-<img align="right" alt="Coding" width="400" src="giphy.gif">
+<img align="right" alt="Coding" width="500" src="giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -32,3 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<br clear="both">
+
+<img src="snake.svg" alt="Snake animation" />
