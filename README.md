@@ -1,5 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Atharva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
    
    <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!&center=true&width=360&height=50">
