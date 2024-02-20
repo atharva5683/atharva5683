@@ -6,7 +6,6 @@
 </div>	
 <h3 align="center">A passionate Coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva5683&label=Profile%20views&color=0e75b6&style=flat" alt="atharva5683" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva5683" alt="atharva5683" /></a> </p>
 
