@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **everything in technology😁👨‍💻**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Cloud**
 
 - ⚡ Fun fact **I am: Innovator**
 
